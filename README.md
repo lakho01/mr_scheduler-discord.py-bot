@@ -14,7 +14,7 @@ py -3 -m pip install -U discord.py
 ```
 # Getting Started
  You need to create a discord application if you have not already
-  ` discord.com/developers`
+   https://discord.com/developers
 
  
  Create a repl.it account and encrypt your token
