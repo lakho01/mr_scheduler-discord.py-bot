@@ -35,8 +35,8 @@ Week12 = ("<Redacted>")
 
 # End of section
 
-# For example ("<@8932308402480230>") - include the < and >
-owner = "<Enter your discord user id here>"
+
+owner = "<Enter your discord user id here>" # For example ("<@8932308402480230>") - include the < and >
 err_msg = "Send a DM to: " + str(owner)
 
 
@@ -179,6 +179,5 @@ async def on_message(message):
         await message.channel.send(embed=embedVar)
 
 keep_alive()  # Calls the keep_alive() function from keep_running.py
-# Method to get the token that is encrypted in this case
-my_secret = os.environ['Token2']
+my_secret = os.environ['Token2'] # Method to get the token that is encrypted in this case
 client.run(my_secret)
