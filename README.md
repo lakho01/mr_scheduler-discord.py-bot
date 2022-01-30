@@ -10,7 +10,7 @@
 python3 -m pip install -U discord.py
 
 # Windows
-py -3 -m pip install -U discord.py
+py -3 -m pip install -U discord.py 
 ```
 # Getting Started
  You need to create a discord application if you have not already
