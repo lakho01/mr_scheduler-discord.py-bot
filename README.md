@@ -1,5 +1,6 @@
 # Mr_Scheduler Discord.py Bot
  An easy to use and modify discord.py bot that reminds you of your weekly assigned tasks
+ 
  This is an open-source bot. Open-source software is software with source code that anyone can inspect, modify, and enhance.
 
 # Installing
@@ -20,4 +21,5 @@ py -3 -m pip install -U discord.py
  
 # Resources
  https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+ 
  https://www.youtube.com/watch?v=SPTfmiYiuok&t=3743s
