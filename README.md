@@ -13,7 +13,9 @@ py -3 -m pip install -U discord.py
 ```
 # Getting Started
  You need to create a discord application if you have not already
+ 
  Create a repl.it account and encrypt your token
+ 
  Copy the mr_scheduler.py code into your repl.it and create another file calling keep_running.py and copy and paste the content
  
 # Resources
