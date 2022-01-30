@@ -3,7 +3,8 @@
 
 # Installing
  To install the discord library
- ```# Linux/macOS
+ ```
+ # Linux/macOS
 python3 -m pip install -U discord.py
 
 # Windows
